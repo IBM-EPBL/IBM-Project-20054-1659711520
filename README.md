@@ -1,4 +1,4 @@
-FERTILIZER RECOMMENDATION SYSTEM FOR DISEASE PREDICTION <img height="50" src="https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_eco_friendly-256.png"/> 
+FERTILIZER RECOMMENDATION SYSTEM FOR DISEASE PREDICTION <img height="75" weight="100" src="https://media2.giphy.com/media/J3SNDqoi8RXjhUi268/giphy.webp?cid=ecf05e47le69wyydfaeea3zlv50967c4i9xft3uihz8tkpvw&rid=giphy.webp&ct=s">
 ------
 ![WhatsApp Image 2022-09-19 at 10 57 46](https://user-images.githubusercontent.com/101406544/190956061-f1277857-cca1-4230-9eed-6eb9a8e48e04.jpeg)
 ------
@@ -6,15 +6,15 @@ FERTILIZER RECOMMENDATION SYSTEM FOR DISEASE PREDICTION <img height="50" src="ht
 
 <img height=100 width=100 src="https://media3.giphy.com/media/Fhl5WREPfoVby/200.webp?cid=ecf05e4719514a4mcpawxc7vmsfyqythmjuyplrzw3l4qlpt&rid=200.webp&ct=s">
 
-😎Sneha E
+<img width="25" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png"> Sneha E
 
-😁Nivetha M
+<img width="25" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png"> Nivetha M
 
-😊Kavya B
+<img width="25" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png"> Kavya B
 
-😃Aardra Krishna
+<img width="25" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png"> Aardra Krishna
 
-<B>TEAM ID </B>: PNT2022TMID03970
+<h3><B>TEAM ID</B> : PNT2022TMID03970</h3>
 
 <img height=50 width=50 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" />  PROBLEM STATEMENT 
 ------
@@ -27,17 +27,17 @@ An automated system is introduced to identify different diseases on plants by ch
 -------
 Disease Prediction and Fertilizer recommendation
 
--Data collection & cleaning
+<img height="25" width="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Small%20Blue%20Diamond.png">Data collection & cleaning
 
--Preprocessing
+<img height="25" width="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Small%20Blue%20Diamond.png">Preprocessing
 
--Applying CNN algorithm in Deep learning technique
+<img height="25" width="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Small%20Blue%20Diamond.png">Applying CNN algorithm in Deep learning technique
 
--Classifying image based on disease with accuracy
+<img height="25" width="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Small%20Blue%20Diamond.png">Classifying image based on disease with accuracy
 
--Recommending fertilizer based on disease
+<img height="25" width="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Small%20Blue%20Diamond.png">Recommending fertilizer based on disease
 
--Building web application and deploying the model
+<img height="25" width="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Small%20Blue%20Diamond.png">Building web application and deploying the model
 
 
 <img height=50 width=50 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> TECHNICAL ARCHITECTURE
