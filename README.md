@@ -1,7 +1,6 @@
 FERTILIZER RECOMMENDATION SYSTEM FOR DISEASE PREDICTION <img height="75" weight="100" src="https://media2.giphy.com/media/J3SNDqoi8RXjhUi268/giphy.webp?cid=ecf05e47le69wyydfaeea3zlv50967c4i9xft3uihz8tkpvw&rid=giphy.webp&ct=s">
 ------
-![WhatsApp Image 2022-09-19 at 10 57 46](https://user-images.githubusercontent.com/101406544/190956061-f1277857-cca1-4230-9eed-6eb9a8e48e04.jpeg)
-------
+<img height=200 width=900 src="https://user-images.githubusercontent.com/101406544/190956061-f1277857-cca1-4230-9eed-6eb9a8e48e04.jpeg">
 
 
 <img height=100 width=100 src="https://media3.giphy.com/media/Fhl5WREPfoVby/200.webp?cid=ecf05e4719514a4mcpawxc7vmsfyqythmjuyplrzw3l4qlpt&rid=200.webp&ct=s">
@@ -16,6 +15,7 @@ FERTILIZER RECOMMENDATION SYSTEM FOR DISEASE PREDICTION <img height="75" weight=
 
 <h3><B>TEAM ID</B> : PNT2022TMID03970</h3>
 
+
 <img height=50 width=50 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" />  PROBLEM STATEMENT 
 ------
 
@@ -23,7 +23,15 @@ Agriculture is the most important sector in today’s life. Most plants are affe
 
 An automated system is introduced to identify different diseases on plants by checking the symptoms shown on the leaves of the plant. Deep learning techniques are used to identify the diseases and suggest the precautions that can be taken for those diseases. 
 
-<img height=50 width=50 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" />  OBJECTIVE 
+
+
+<img height=100 width=100 src="https://media3.giphy.com/media/J6ChY8sAIgiAQ0GdRu/giphy.gif?cid=ecf05e47s6veuo5fqtdypy9x7prgfyt0t5khcz5b1n0duom5&rid=giphy.gif&ct=s">DOMAIN:
+-------
+<img height=400 width=600 src="https://user-images.githubusercontent.com/101406544/194721603-ad936452-4926-4d49-a73b-05eb4b1437c1.gif">
+
+
+
+<img height=50 width=50 src="https://media4.giphy.com/media/GlHV2O0IpxAsRjVsNb/giphy.gif?cid=ecf05e47atsx2lx1m97vqb3pi8ugxy7inv5g0ahypjyzvl98&rid=giphy.gif&ct=s">  OBJECTIVE 
 -------
 Disease Prediction and Fertilizer recommendation
 
@@ -38,6 +46,7 @@ Disease Prediction and Fertilizer recommendation
 <img height="25" width="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Small%20Blue%20Diamond.png">Recommending fertilizer based on disease
 
 <img height="25" width="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Small%20Blue%20Diamond.png">Building web application and deploying the model
+
 
 
 <img height=50 width=50 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> TECHNICAL ARCHITECTURE
