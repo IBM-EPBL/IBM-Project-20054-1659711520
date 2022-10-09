@@ -1,4 +1,4 @@
-FERTILIZER RECOMMENDATION SYSTEM FOR DISEASE PREDICTION <img height="75" weight="100" src="https://media2.giphy.com/media/J3SNDqoi8RXjhUi268/giphy.webp?cid=ecf05e47le69wyydfaeea3zlv50967c4i9xft3uihz8tkpvw&rid=giphy.webp&ct=s">
+FERTILIZER RECOMMENDATION SYSTEM FOR DISEASE PREDICTION <img height="75" weight="100" src="https://media2.giphy.com/media/J3SNDqoi8RXjhUi268/giphy.webp?cid=ecf05e47le69wyydfaeea3zlv50967c4i9xft3uihz8tkpvw&rid=giphy.webp&ct=s"> 
 ------
 <img height=200 width=900 src="https://user-images.githubusercontent.com/101406544/190956061-f1277857-cca1-4230-9eed-6eb9a8e48e04.jpeg">
 
